@@ -16,3 +16,6 @@ https://www.overleaf.com/project/664a53547ae80764502d9d88
 
 GoldLabel Video Descriptions
 https://docs.google.com/spreadsheets/d/13_mqGQM-S3nTI8f4PiUTPkD813_O-E4lqkZ6lAqWM4k/edit?usp=sharing
+
+Annotations file:
+https://docs.google.com/spreadsheets/d/1lyAXuF74NTbIR42banKddmNPqq-lRDpKEMytsWNPius/edit?usp=sharing
