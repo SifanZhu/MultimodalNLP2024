@@ -1,6 +1,9 @@
 # MultimodalNLP2024
 Group project for MultimodalNLP2024
 
+Group members:
+Sifan Zhu (Matrikel-Nr. 12506804), Kristina Kuznetsova (Matrikel-Nr. 12650776), Anqi Li (Matrikel-Nr. 11993706)
+
 Dataset: 
 UBnormal
 https://github.com/lilygeorgescu/UBnormal
