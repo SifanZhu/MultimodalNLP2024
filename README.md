@@ -8,6 +8,9 @@ Dataset:
 UBnormal
 https://github.com/lilygeorgescu/UBnormal
 
+The extracted frames file in Google Drive:
+https://drive.google.com/drive/folders/1HOBSeemKTEoop_1Y_1VCzQsXPIZK4GEq
+
 Weekly plan:
 https://www.overleaf.com/9761391578rzttnnnytggw#fd05f4
 
