@@ -12,7 +12,7 @@ https://github.com/lilygeorgescu/UBnormal
 The extracted frames file in Google Drive:
 https://drive.google.com/drive/folders/1HOBSeemKTEoop_1Y_1VCzQsXPIZK4GEq
 
-GoldLabel Video Descriptions
+GoldLabel Video Descriptions - 1-4 for native speakers, 5-20 for non-native speakers:
 https://docs.google.com/spreadsheets/d/13_mqGQM-S3nTI8f4PiUTPkD813_O-E4lqkZ6lAqWM4k/edit?usp=sharing
 
 Annotations file:
