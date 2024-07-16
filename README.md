@@ -18,8 +18,7 @@ https://docs.google.com/spreadsheets/d/13_mqGQM-S3nTI8f4PiUTPkD813_O-E4lqkZ6lAqW
 Annotations file:
 https://docs.google.com/spreadsheets/d/1lyAXuF74NTbIR42banKddmNPqq-lRDpKEMytsWNPius/edit?usp=sharing
 
-## Module (code snippets):
-## Inclduing Baseline module and Fine-tuning module
+## Module (code snippets) Inclduing Baseline module and Fine-tuning module:
 https://drive.google.com/drive/folders/1FPi8etdC7YI5NZ4X_IoSBddevSQaXvjo
 
 
