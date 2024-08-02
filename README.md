@@ -4,6 +4,8 @@ Group project for MultimodalNLP2024
 Group members:
 Sifan Zhu (Matrikel-Nr. 12506804), Kristina Kuznetsova (Matrikel-Nr. 12650776), Anqi Li (Matrikel-Nr. 11993706)
 
+We created a little guide to make analyzing our project easier. All project files as well as the guide are stored here: https://drive.google.com/drive/folders/1FPi8etdC7YI5NZ4X_IoSBddevSQaXvjo
+
 
 ## Dataset: 
 UBnormal
@@ -17,10 +19,6 @@ https://docs.google.com/spreadsheets/d/13_mqGQM-S3nTI8f4PiUTPkD813_O-E4lqkZ6lAqW
 
 Annotations file:
 https://docs.google.com/spreadsheets/d/1lyAXuF74NTbIR42banKddmNPqq-lRDpKEMytsWNPius/edit?usp=sharing
-
-## Model (code snippets) - Inclduing Baseline model and Fine-tuning model:
-https://drive.google.com/drive/folders/1FPi8etdC7YI5NZ4X_IoSBddevSQaXvjo
-
 
 ## Report:
 https://www.overleaf.com/project/664a53547ae80764502d9d88
